@@ -1,0 +1,6 @@
+fuel_category,sort_order,color
+Electric (BEV),1,#2a78d6
+Plug-in hybrid,2,#eb6834
+Hybrid (no plug-in),3,#1baf7a
+Diesel,4,#eda100
+Petrol & other,5,#e87ba4
